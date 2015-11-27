@@ -1,0 +1,123 @@
+﻿<messages>
+
+  <message id="SourceCode">
+    <language type="PT">Código Fonte</language>
+    <language type="EN">Source Code</language>
+    <language type="ES">Código Fuente</language>
+  </message>
+
+  <message id="LoadCode">
+    <language type="PT">Abrir Código</language>
+    <language type="EN">Load Code</language>
+    <language type="ES">Cargar el Código</language>
+  </message>
+
+  <message id="SaveCode">
+    <language type="PT">Salvar Código</language>
+    <language type="EN">Save Code</language>
+    <language type="ES">Guardar el Código</language>
+  </message>
+
+  <message id="PlaySpace">
+    <language type="PT">Ambiente de Execução</language>
+    <language type="EN">Play Space</language>
+    <language type="ES">Entorno de Ejecución</language>
+  </message>
+
+  <message id="Play">
+    <language type="PT">Executar</language>
+    <language type="EN">Play</language>
+    <language type="ES">Ejecutar</language>
+  </message>
+
+  <message id="Instantiate">
+    <language type="PT">Instanciar</language>
+    <language type="EN">Instantiate</language>
+    <language type="ES">Instanciar</language>
+  </message>
+
+  <message id="SetBehavior">
+    <language type="PT">Definir Comportamento</language>
+    <language type="EN">Set Behavior</language>
+    <language type="ES">Establecer Comportamiento</language>
+  </message>
+
+  <message id="ResetSelectedObject">
+    <language type="PT">Reiniciar Objeto Selecionado</language>
+    <language type="EN">Reset Selected Object</language>
+    <language type="ES">Restablecer Objeto Seleccionado</language>
+  </message>
+
+  <message id="ResetAllObjects">
+    <language type="PT">Reiniciar Objetos</language>
+    <language type="EN">Reset Objects</language>
+    <language type="ES">Restablecer Objetos</language>
+  </message>
+
+  <message id="Settings">
+    <language type="PT">Configurações</language>
+    <language type="EN">Settings</language>
+    <language type="ES">Ajustes</language>
+  </message>
+
+  <message id="Languages">
+    <language type="PT">Idiomas</language>
+    <language type="EN">Languages</language>
+    <language type="ES">Lenguajes</language>
+  </message>
+
+  <message id="Portuguese">
+    <language type="PT">Português</language>
+    <language type="EN">Portuguese</language>
+    <language type="ES">Portugués</language>
+  </message>
+
+  <message id="English">
+    <language type="PT">Inglês</language>
+    <language type="EN">English</language>
+    <language type="ES">Inglés</language>
+  </message>
+
+  <message id="Spanish">
+    <language type="PT">Espanhol</language>
+    <language type="EN">Spanish</language>
+    <language type="ES">Español</language>
+  </message>
+
+  <message id="Text Size">
+    <language type="PT">Tamanho do Texto</language>
+    <language type="EN">Text Size</language>
+    <language type="ES">Tamaño del Texto</language>
+  </message>
+
+  <message id="Small">
+    <language type="PT">Pequeno</language>
+    <language type="EN">Small</language>
+    <language type="ES">Pequeño</language>
+  </message>
+
+  <message id="Medium">
+    <language type="PT">Médio</language>
+    <language type="EN">Medium</language>
+    <language type="ES">Medio</language>
+  </message>
+
+  <message id="Large">
+    <language type="PT">Grande</language>
+    <language type="EN">Large</language>
+    <language type="ES">Grande</language>
+  </message>
+
+  <message id="Giant">
+    <language type="PT">Gigante</language>
+    <language type="EN">Giant</language>
+    <language type="ES">Gigante</language>
+  </message>
+
+  <message id="Exit">
+    <language type="PT">Sair</language>
+    <language type="EN">Exit</language>
+    <language type="ES">Salir</language>
+  </message>
+
+</messages>

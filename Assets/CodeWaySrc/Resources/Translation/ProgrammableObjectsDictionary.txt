@@ -1,0 +1,39 @@
+﻿<messages>
+
+  <message id="Cube">
+    <language type="PT">Cubo</language>
+    <language type="EN">Cube</language>
+    <language type="ES">Cubo</language>
+  </message>
+  
+  <message id="Robot Kyle">
+    <language type="PT">Robô Kyle</language>
+    <language type="EN">Robot Kyle</language>
+    <language type="ES">Robot Kyle</language>
+  </message>
+  
+  <message id="Dragon Bruce">
+    <language type="PT">Dragão Bruce</language>
+    <language type="EN">Dragon Bruce</language>
+    <language type="ES">Dragón Bruce</language>
+  </message>
+  
+  <message id="Ice Golem">
+    <language type="PT">Golem de Gelo</language>
+    <language type="EN">Ice Golem</language>
+    <language type="ES">Golem de Hielo</language>
+  </message>
+  
+  <message id="Lion">
+    <language type="PT">Leão</language>
+    <language type="EN">Lion</language>
+    <language type="ES">León</language>
+  </message>
+  
+  <message id="Giant Spider">
+    <language type="PT">Aranha Gigante</language>
+    <language type="EN">Giant Spider</language>
+    <language type="ES">Araña Gigante</language>
+  </message>
+
+</messages>

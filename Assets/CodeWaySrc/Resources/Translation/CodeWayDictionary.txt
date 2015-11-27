@@ -1,0 +1,111 @@
+﻿<messages>
+
+  <message id="CodeWayProject">
+    <language type="PT">Projeto CodeWay</language>
+    <language type="EN">CodeWay Project</language>
+    <language type="ES">Proyecto CodeWay</language>
+  </message>
+  
+  <message id="WriteCodeHere">
+    <language type="PT">Escreva seu código fonte aqui...</language>
+    <language type="EN">Write your source code here...</language>
+    <language type="ES">Escriba su código fuente aquí...</language>
+  </message>
+  
+  <message id="NotRecognizedCommand">
+    <language type="PT">não é um comando reconhecido!</language>
+    <language type="EN">is not a recognized command!</language>
+    <language type="ES">no es un comando reconocido!</language>
+  </message>
+
+  <message id="LoadCode">
+    <language type="PT">Carregar Código</language>
+    <language type="EN">Load Code</language>
+    <language type="ES">Cargar el Código</language>
+  </message>
+
+  <message id="LoadedSuccessfully">
+    <language type="PT">Carregado com êxito!</language>
+    <language type="EN">Loaded successfully!</language>
+    <language type="ES">Cargado correctamente!</language>
+  </message>
+
+  <message id="ErrorLoading">
+    <language type="PT">Erro ao carregar!</language>
+    <language type="EN">Loading failed!</language>
+    <language type="ES">Error al cargar!</language>
+  </message>
+
+  <message id="ChooseScript">
+    <language type="PT">Selecione um Script:</language>
+    <language type="EN">Choose a Script:</language>
+    <language type="ES">Elija un Script:</language>
+  </message>
+
+  <message id="Load">
+    <language type="PT">Carregar</language>
+    <language type="EN">Load</language>
+    <language type="ES">Cargar</language>
+  </message>
+
+  <message id="SelectObjectFirst">
+    <language type="PT">Selecione um objeto antes!</language>
+    <language type="EN">Select an object first!</language>
+    <language type="ES">Seleccione un objeto primero!</language>
+  </message>
+
+  <message id="SaveCode">
+    <language type="PT">Salvar Código</language>
+    <language type="EN">Save Code</language>
+    <language type="ES">Guardar el Código</language>
+  </message>
+
+  <message id="SavedSuccessfully">
+    <language type="PT">Salvo com êxito!</language>
+    <language type="EN">Saved successfully!</language>
+    <language type="ES">Guardado correctamente!</language>
+  </message>
+
+  <message id="ErrorSaving">
+    <language type="PT">Erro ao salvar!</language>
+    <language type="EN">Saving failed!</language>
+    <language type="ES">Error al guardar!</language>
+  </message>
+
+  <message id="ScriptName">
+    <language type="PT">Nome do Script:</language>
+    <language type="EN">Script Name:</language>
+    <language type="ES">Nombre del Script:</language>
+  </message>
+
+  <message id="writeName">
+    <language type="PT">escreva o nome aqui</language>
+    <language type="EN">write the name here</language>
+    <language type="ES">escriba el nombre aquí</language>
+  </message>
+
+  <message id="Save">
+    <language type="PT">Salvar</language>
+    <language type="EN">Save</language>
+    <language type="ES">Guardar</language>
+  </message>
+
+  <message id="Libraries">
+    <language type="PT">Bibliotecas</language>
+    <language type="EN">Libraries</language>
+    <language type="ES">Bibliotecas</language>
+  </message>
+
+  <message id="Movement">
+    <language type="PT">Movimento</language>
+    <language type="EN">Movement</language>
+    <language type="ES">Movimiento</language>
+  </message>
+
+  <message id="Battle">
+    <language type="PT">Batalha</language>
+    <language type="EN">Battle</language>
+    <language type="ES">Batalla</language>
+  </message>
+
+</messages>
