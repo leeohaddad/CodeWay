@@ -8,7 +8,7 @@
 ---
 
 # Projeto CodeWay
-> CodeWay: aprendizagem de programação através de elementos visuais
+> CodeWay: aprendizagem de programação através de elementos visuais  
 > Trabalho de Conclusão de Curso  
 > Universidade: Universidade de São Paulo  
 > Instituto: Instituto de Matemática e Estatística  
